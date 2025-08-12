@@ -122,6 +122,8 @@ print(f'\nPrediction for x=120: {y_pred_new:.8f}')
 
 ### OUTPUT
 Training Loss Vs Iteration Plot
+<img width="681" height="21" alt="image" src="https://github.com/user-attachments/assets/d2d11f1e-1a8e-41b4-9c16-9469be6cb411" />
+
 <img width="823" height="624" alt="image" src="https://github.com/user-attachments/assets/be5bf568-09e9-4d56-acfe-85f6bdcf75e9" />
 Best Fit line plot
 <img width="799" height="622" alt="image" src="https://github.com/user-attachments/assets/770c1aee-c882-40f1-9da3-49b5d56f3021" />
